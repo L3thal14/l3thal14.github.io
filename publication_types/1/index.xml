@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Karthik Ramakrishnan</title>
+    <link>https://l3thal14.github.io/publication_types/1/</link>
+      <atom:link href="https://l3thal14.github.io/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>**Karthik Ramakrishnan © 2022**</copyright><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://l3thal14.github.io/img/icon-192.png</url>
+      <title>1</title>
+      <link>https://l3thal14.github.io/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Pandora: An IOT based Intrusion Detection Honeypot with Real-time Monitoring</title>
+      <link>https://l3thal14.github.io/publication/ieee-pandora/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://l3thal14.github.io/publication/ieee-pandora/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

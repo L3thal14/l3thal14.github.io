@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Karthik Ramakrishnan</title>
+    <link>https://l3thal14.github.io/</link>
+      <atom:link href="https://l3thal14.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <description>Karthik Ramakrishnan</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>**Karthik Ramakrishnan © 2022**</copyright><lastBuildDate>Tue, 21 Dec 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://l3thal14.github.io/img/icon-192.png</url>
+      <title>Karthik Ramakrishnan</title>
+      <link>https://l3thal14.github.io/</link>
+    </image>
+    
+    <item>
+      <title>Pandora: An IOT based Intrusion Detection Honeypot with Real-time Monitoring</title>
+      <link>https://l3thal14.github.io/publication/ieee-pandora/</link>
+      <pubDate>Tue, 21 Dec 2021 00:00:00 +0000</pubDate>
+      <guid>https://l3thal14.github.io/publication/ieee-pandora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ReconAID</title>
+      <link>https://l3thal14.github.io/project/reconaid/</link>
+      <pubDate>Tue, 03 Aug 2021 00:00:00 +0000</pubDate>
+      <guid>https://l3thal14.github.io/project/reconaid/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SLCM API</title>
+      <link>https://l3thal14.github.io/project/slcm-api/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>https://l3thal14.github.io/project/slcm-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pandora</title>
+      <link>https://l3thal14.github.io/project/pandora/</link>
+      <pubDate>Tue, 18 May 2021 00:00:00 +0000</pubDate>
+      <guid>https://l3thal14.github.io/project/pandora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeoco</title>
+      <link>https://l3thal14.github.io/project/zeoco/</link>
+      <pubDate>Thu, 22 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://l3thal14.github.io/project/zeoco/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Chess.com Stats Viewer</title>
+      <link>https://l3thal14.github.io/project/chess-stats/</link>
+      <pubDate>Wed, 21 Apr 2021 00:00:00 +0000</pubDate>
+      <guid>https://l3thal14.github.io/project/chess-stats/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Zeoco: An insight into daily carbon footprint consumption</title>
+      <link>https://l3thal14.github.io/publication/arxiv-zeoco/</link>
+      <pubDate>Thu, 11 Feb 2021 00:00:00 +0000</pubDate>
+      <guid>https://l3thal14.github.io/publication/arxiv-zeoco/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
